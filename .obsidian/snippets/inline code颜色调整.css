@@ -1,0 +1,4 @@
+.markdown-preview-view p>code,
+.markdown-preview-view li>code {
+    color: #fd5eb8;
+}

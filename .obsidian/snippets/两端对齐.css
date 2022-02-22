@@ -1,0 +1,5 @@
+/*@ 两端对齐 */
+.markdown-preview-view {
+    text-align: justify;
+    hyphens: auto;
+}

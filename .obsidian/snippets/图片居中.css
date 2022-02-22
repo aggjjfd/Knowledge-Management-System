@@ -1,0 +1,9 @@
+/*@ 图片居中 */
+
+.markdown-preview-view img{
+    /* position: relative;
+    left: -2em; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

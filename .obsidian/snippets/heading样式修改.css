@@ -1,0 +1,57 @@
+/*@ heading 样式修改 */
+.markdown-preview-view h2,h3,h4,h5,h6 {
+    margin: 1em 0 0.6em !important;
+    font-family: 'Source Han Serif SC' !important;
+}
+
+.markdown-preview-view h1 {
+    font-family: 'Source Han Serif SC' !important;
+    font-size: 1.6666667rem !important;
+    font-weight: bold;
+    margin: 2em auto 1.3em !important;
+    text-align: center;
+}
+
+.markdown-preview-view h1:after {
+    content: "";
+    display: block;
+    margin: 0.2em auto 0;
+    width: 100px;
+    height: 2px;
+    border-bottom: 2px solid;
+    font-weight: bold;
+}
+
+.markdown-preview-view h2 {
+    font-size: 1.3333333rem;
+    border-left: 4px solid;
+    border-bottom: 1px solid;
+    padding-left: 0.5em;
+    padding-bottom: 0.2em;
+    color: #bd93f8;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 4px;
+}
+
+.markdown-preview-view h3 {
+    font-size: 1.25rem;
+    border-left: 4px solid;
+    padding-left: 0.5em;
+    color: #ec5152;
+    border-radius: 4px;
+}
+
+.markdown-preview-view h4 {
+    color: #e6a764;
+    font-size: 1rem;
+}
+
+.markdown-preview-view h5 {
+    color: #4ff379;
+    font-size: 1rem;
+}
+
+.markdown-preview-view h6 {
+    color: #84dcf0;
+    font-size: 1rem;
+}

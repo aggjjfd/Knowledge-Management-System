@@ -1,0 +1,23 @@
+/*@ 1. 给 tbody 加了下边框线，调整颜色 */
+/*@ 2. 对 thead 字体效果进行调整 */
+/*@ 3. 将表格中 li 前圆点取消 */
+
+.table-view-table > thead > tr > th {
+    font-family: var(--font-preview) !important;
+    font-weight: bold !important;
+    font-size: 1.3333333333rem !important;
+}
+
+.table-view-table > tbody > tr > td {
+    font-weight: normal !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-bottom-color: rgb(90, 90, 90) !important;
+    border-bottom-style: dotted !important;
+    padding: 0.5em 10px !important;
+}
+
+.table-view-table > tbody > tr > td li {
+    list-style: none !important;
+}

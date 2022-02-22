@@ -1,0 +1,5 @@
+/*@ 列表缩进调整 */
+.markdown-preview-view ul,ol{
+    padding-left: 2rem;
+}
+

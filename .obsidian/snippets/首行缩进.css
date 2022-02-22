@@ -1,0 +1,9 @@
+/*@ 首行缩进（实验性） */
+.markdown-preview-view div>p {
+    text-indent: 2em;
+}
+
+.markdown-preview-view img {
+    text-indent: -2em !important;
+}
+

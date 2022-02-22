@@ -1,0 +1,17 @@
+.block-language-timer {
+    padding-top: 40px !important;
+    padding-bottom: 36px !important;
+    padding-left: 84px !important;
+    padding-right: 20px !important;
+    font-family: 'Fira Code';
+    border-radius: 10px;
+}
+
+.block-language-timer .timer-start,
+.block-language-timer .timer-pause,
+.block-language-timer .timer-reset,
+.block-language-timer .timer-log {
+    padding: 8px;
+    /* padding-bottom: 8px; */
+    font-family: inherit;
+}

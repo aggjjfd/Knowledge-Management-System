@@ -1,0 +1,7 @@
+.markdown-preview-view .contains-task-list li {
+    padding-left: 2rem;
+}
+
+.markdown-preview-view .contains-task-list li li {
+    padding-left: 0;
+}

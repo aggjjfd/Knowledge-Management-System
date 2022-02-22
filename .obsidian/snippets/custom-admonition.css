@@ -1,0 +1,21 @@
+.admonition {
+    --line-width: auto !important
+}
+
+.admonition-content {
+    margin: 0 15px !important;
+    position: relative !important;
+    overflow-x: auto !important;
+}
+
+.admonition-content p {
+    text-indent: 0 !important;
+}
+
+.admonition-title {
+    position: relative !important;
+    padding: 0.35rem 0.5em 0.35rem 0.25em !important;
+    font-weight: 700 !important;
+    background-color: rgba(var(--admonition-color), 0.1) !important;
+}
+

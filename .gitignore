@@ -1,0 +1,12 @@
+.trash/
+booknote/
+收集箱/
+.vault-stats
+/*.md
+*.ink
+
+.obsidian/*.json
+.obsidian/config
+.obsidian/workspace
+.obsidian/plugins/
+.obsidian/themes/

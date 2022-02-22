@@ -1,0 +1,8 @@
+.dynamic-toc::after {
+    display: block;
+    content: "";
+    margin: 2rem auto 3rem;
+    width: calc(var(--line-width)*0.9);
+    height: 0;
+    border-bottom: 1px dotted #555;
+}

@@ -1,0 +1,4 @@
+/*@ 调节strong字重 */
+.markdown-preview-view strong {
+    font-weight: 900;
+}
