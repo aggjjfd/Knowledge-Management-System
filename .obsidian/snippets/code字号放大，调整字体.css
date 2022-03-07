@@ -2,4 +2,5 @@
 .markdown-preview-view code {
     font-size: 1rem;
     font-family: 'Fira Code','Source Han serif SC';
+    padding: 2px 3px 0;
 }
