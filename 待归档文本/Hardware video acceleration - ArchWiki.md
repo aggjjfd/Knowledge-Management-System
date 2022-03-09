@@ -1,3 +1,4 @@
+# Hardware video acceleration - ArchWiki
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [wiki.archlinux.org](https://wiki.archlinux.org/title/Hardware_video_acceleration#Intel)
 
 > Hardware video acceleration makes it possible for the video card to decode/encode video, thus offload......
@@ -10,7 +11,7 @@ There are several ways to achieve this on Linux:
 *   [Video Decode and Presentation API for Unix](https://www.freedesktop.org/wiki/Software/VDPAU/) (VDPAU) is an open source library and API to offload portions of the video decoding process and video post-processing to the GPU video-hardware, developed by NVIDIA.
 *   [NVDECODE/NVENCODE](https://developer.nvidia.com/nvidia-video-codec-sdk) - NVIDIA's proprietary APIs for hardware video acceleration, used by NVIDIA GPUs from Fermi onwards.
 
-For pre-2007 video cards see [XvMC](https://wiki.archlinux.org/title/XvMC "XvMC"). For comprehensive overview of driver and application support see [#Comparison tables](#Comparison_tables).
+For pre-2007 video cards see [XvMC](https://wiki.archlinux.org/title/XvMC "XvMC"). For comprehensive overview of driver and application support see [Comparison tables](#Comparison_tables).
 
 Installation
 ------------
@@ -143,7 +144,7 @@ Your system may work perfectly out-of-the-box without needing any configuration.
     
     [You need to configure the correct driver, see](https://archlinux.org/packages/?>libva-utils</a>:
     </p>
-    <pre data-darkreader-inline-border-bottom=) [#Configuring VA-API](#Configuring_VA-API).
+    <pre data-darkreader-inline-border-bottom=) [Configuring VA-API](#Configuring_VA-API).
     
     ### Verifying VDPAU
     
@@ -243,7 +244,7 @@ Your system may work perfectly out-of-the-box without needing any configuration.
         The correct driver name depends on your setup:
         
         *   For Intel graphics you [need](#Failed_to_open_VDPAU_backend) to set it to `va_gl`.
-        *   For the open source AMD driver set it to the proper driver version depending on your GPU, see [#Verification](#Verification).
+        *   For the open source AMD driver set it to the proper driver version depending on your GPU, see [Verification](#Verification).
         *   For the open source Nouveau driver set it to `nouveau`.
         *   For NVIDIA's proprietary version set it to `nvidia`.
         
@@ -279,7 +280,7 @@ Your system may work perfectly out-of-the-box without needing any configuration.
         
         ### Failed to open VDPAU backend
         
-        You need to set `VDPAU_DRIVER` variable to point to correct driver. See [#Configuring VDPAU](#Configuring_VDPAU).
+        You need to set `VDPAU_DRIVER` variable to point to correct driver. See [Configuring VDPAU](#Configuring_VDPAU).
         
         ### VAAPI init failed
         

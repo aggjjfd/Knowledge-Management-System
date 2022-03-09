@@ -1,3 +1,4 @@
+# 将 KDE 改造为 Windows 10
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [viflythink.com](https://viflythink.com/KDE_to_Windows10/)
 
 > 将 KDE 桌面改造为 Windows 10 风格的折腾记录，也算是 KDE 美化教程
@@ -39,7 +40,7 @@
 毛玻璃效果
 -----
 
-是否觉得在我的截图中的底部栏非常好看呢，这在很大程度上都是毛玻璃效果带来的。想要做到这样的效果，只需安装一个被称为 [Breeze AlphaBlack](https://store.kde.org/p/1084931/) 的 Plasma Themes。下载完成后将其解压到 ~/.local/share/plasma/desktoptheme/，然后打开系统设置，在侧栏点击 “Plasma 样式”，选择 Breeze AlphaBlack 并应用更改。重启电脑后就能在系统托盘处见到 AlphaBlack Control（长得像是个雨滴），单击即可进行调整：将“Accent Color” 的“Panel, Widget, Window TitleBars & Frames”处的值改为 #343434（默认的纯黑不好看），将 “Opacity” 的“Panel”处的值调整为 10% 以加强底部栏透明度。
+是否觉得在我的截图中的底部栏非常好看呢，这在很大程度上都是毛玻璃效果带来的。想要做到这样的效果，只需安装一个被称为 [Breeze AlphaBlack](https://store.kde.org/p/1084931/) 的 Plasma Themes。下载完成后将其解压到 ~/.local/share/plasma/desktoptheme/，然后打开系统设置，在侧栏点击 “Plasma 样式”，选择 Breeze AlphaBlack 并应用更改。重启电脑后就能在系统托盘处见到 AlphaBlack Control（长得像是个雨滴），单击即可进行调整：将“Accent Color” 的“Panel, Widget, Window TitleBars & Frames”处的值改为 `#343434`（默认的纯黑不好看），将 “Opacity” 的“Panel”处的值调整为 10% 以加强底部栏透明度。
 
  [![](https://viflythink.com/KDE_to_Windows10/set_alpha_black.png)](https://viflythink.com/KDE_to_Windows10/set_alpha_black.png) 设置 AlphaBlack
 
