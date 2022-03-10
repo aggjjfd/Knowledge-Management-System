@@ -19,7 +19,7 @@ tar
 tar 命令的选项有很多 (用 man tar 可以查看到)，但常用的就那么几个选项，下面来举例说明一下：
 
 ```
-# tar -cf all.tar *.jpg
+# Linux tar.gz、tar、bz2、zip 等解压缩、压缩命令详解
 ```
 
 这条命令是将所有 .jpg 的文件打成一个名为 all.tar 的包。-c 是表示产生新的包，-f 指定包的文件名。
