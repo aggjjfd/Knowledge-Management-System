@@ -5,9 +5,9 @@
 }
 
 .markdown-preview-view h1 {
-    font-family: 'Source Han Serif SC' !important;
+    font-family: '方正小标宋简体' !important;
     font-size: 1.6666667rem !important;
-    font-weight: bold;
+    /* font-weight: bold; */
     margin: 2em auto 1.3em !important;
     text-align: center;
 }
