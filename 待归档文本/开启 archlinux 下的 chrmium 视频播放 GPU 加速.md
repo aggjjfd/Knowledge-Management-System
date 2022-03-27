@@ -1,3 +1,4 @@
+# 开启 archlinux 下的 chrmium 视频播放 GPU 加速
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/219715236)
 
 2020 年 10 月 8 日更新：chromium 升级到 86 之后，需要再在 `~/.config/chromium-flags.conf`文件中增加`一个 flag`--enable-accelerated-video-decode`
