@@ -1,3 +1,4 @@
+# 老 A 教你几个独到的识人技巧
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s?__biz=Mzg5NDU4MjE4Mg==&mid=2247500880&idx=1&sn=c75294ffa70b9af79a2d7beaeb9d2fae&chksm=c01fe899f768618f3760087e0a0a98cd6693ad52c31ad7f036f7ea9e8713650afa5f48d1f5eb&scene=90&subscene=93&sessionid=1646782231&clicktime=1646782232&enterid=1646782232&ascene=56&devicetype=android-29&version=2800133d&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=A6Tie2i5YCOdQqxiW9Kilk0%3D&pass_ticket=38qfnj6rxHpeloDg%2FW0iA%2BYBsXGRCFGkX4S72q1baAObP0PHFm6MQOXjb0y%2FKMjj&wx_header=3)
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/iczFAnbnPrw0MoKQyvMf3fMia538ffaZAp8NtEBUMcMS4AnibQ8OR6nsGpJ7T69G2mWJqCWbXd7XAgrUCR8Xj8Kgg/640?wx_fmt=jpeg)
