@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.runoob.com](https://www.runoob.com/w3cnote/linux-tar-gz.html)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码，原文地址 [www.runoob.com](https://www.runoob.com/w3cnote/linux-tar-gz.html)
 
 > Linux 常用的压缩与解压缩命令有：tar、gzip、gunzip、bzip2、bunzip2、compress 、uncompress、 zip、 unzip、rar、unrar 等。
 
