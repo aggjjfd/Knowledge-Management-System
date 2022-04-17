@@ -15,7 +15,7 @@
 .admonition-title {
     position: relative !important;
     padding: 0.35rem 0.5em 0.35rem 0.25em !important;
-    font-weight: 700 !important;
+    font-weight: 600 !important;
     background-color: rgba(var(--admonition-color), 0.1) !important;
 }
 
