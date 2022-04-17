@@ -9,7 +9,7 @@
 }
 
 .callout-title-inner code,
-.admonition-title-inner code {
+.admonition-title-content code {
     color: #fd5eb8;
     font-weight: 400;
 }
