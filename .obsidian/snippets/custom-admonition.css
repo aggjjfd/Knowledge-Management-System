@@ -24,9 +24,16 @@
 } */
 
 .admonition-title {
-    padding: 5px ;
+    padding: 0.4em 9px;
 }
 
 .admonition-content {
     padding: 0 15px;
+}
+
+.admonition-content p,
+.admonition-content ul,
+.admonition-content ol,
+.admonition-content table  {
+    margin: 0.7em 0 !important;
 }
