@@ -1,39 +1,31 @@
+.callout,
 .admonition {
     --line-width: auto !important
 }
 
-/* .admonition-content {
-    margin: 0 15px !important;
-    position: relative !important;
-    overflow-x: auto !important;
-} */
-
-/* .admonition-title {
-    position: relative !important;
-    padding: 0.35rem 0.5em 0.35rem 0.25em !important;
-    font-weight: 600 !important;
-    background-color: rgba(var(--admonition-color), 0.1) !important;
-} */
-
-/* .admonition-title-icon {
-    display: inline-block;
-}
-
-.admonition-title-content {
-    display: inline-block;
-} */
-
+.callout-title,
 .admonition-title {
-    padding: 0.4em 9px;
+    padding: 0.35em 9px;
 }
 
+.callout-title-inner code,
+.admonition-title-inner code {
+    color: #fd5eb8;
+    font-weight: 400;
+}
+
+.callout-content,
 .admonition-content {
     padding: 0 15px;
 }
 
+.callout-content p,
 .admonition-content p,
+.callout-content ul,
 .admonition-content ul,
+.callout-content ol,
 .admonition-content ol,
+.callout-content table,
 .admonition-content table  {
     margin: 0.7em 0 !important;
 }

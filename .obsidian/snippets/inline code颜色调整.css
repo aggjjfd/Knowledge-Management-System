@@ -1,4 +1,5 @@
 .markdown-preview-view p>code,
-.markdown-preview-view li>code {
+.markdown-preview-view li>code,
+.admonition-title-content code {
     color: #fd5eb8;
 }
